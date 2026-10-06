@@ -1,0 +1,5 @@
+# הגדרות Cloudflare Pages: מונע ממנועי חיפוש לאנדקס את האתר והקבצים
+/*
+  X-Robots-Tag: noindex, nofollow
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
